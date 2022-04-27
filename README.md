@@ -5,8 +5,20 @@ TIANYI HUANG, University of California, Berkeley, USA\\
 MINGYUE FAN, University of California, Berkeley, USA\\
 TIAN LIU, University of California, Berkeley, USA
 
+## Milestone Resource
 
-## 1 MILESTONE OVERVIEW
+### Milestone Report
+[Report](https://drive.google.com/file/d/1Ys014uTI1Mt401NLYnRH_b0N2oIBlO3h/view?usp=sharing)
+
+### Milestone Video
+[Video](https://drive.google.com/file/d/1MwWJrM9GXvsf8VB7GlE9des_QDBKaoUy/view?usp=sharing)
+
+### Presentation Slides
+[Slides](https://docs.google.com/presentation/d/1nv6Ltf3IqgLssjAN94v8myT1iBDJW9hsFTqGJupNxpc/edit?usp=sharing)
+
+
+
+<!-- ## 1 MILESTONE OVERVIEW
 Until now We have made progress in optimizing both the memory and speed of our ray tracer based on the BVH accelerator. In addition, we also used kd-tree as an alternative accelerator to speed up the process. And we perform anti-aliasing optimization using the jittered sampling.
 
 ## 2 MEMORY OPTIMIZATION
@@ -31,4 +43,4 @@ For Monte-Carlo integration Application, stratified sampling is always better th
 ### 5.1 Morton Code based BVH Optimization
 Up to now, we have realized the Morton encoding of BVH nodes on the basis of understanding the principle, and we will complete the part of search through BVH in the next stage. And we currently do not see any improvements to build the accelerators. (Maybe we can set the maximum depth of the KD-Tree smaller), but we do not know the corresponding impact on the rendering process either. (We have not finished refactoring the rendering process until now).
 ### 5.2 KD-Tree Optimization
-Until Now, after refactoring the code, we are able to construct the KD-tree accelerator. However, we have not refactored the rendering and visualization part to fit the KD-tree accelerator. (For the rendering part, the previous global illumination used the the BVH accelerator to calculate ray intersections).
+Until Now, after refactoring the code, we are able to construct the KD-tree accelerator. However, we have not refactored the rendering and visualization part to fit the KD-tree accelerator. (For the rendering part, the previous global illumination used the the BVH accelerator to calculate ray intersections). -->

@@ -5,6 +5,9 @@ TIANYI HUANG, University of California, Berkeley, USA\\
 MINGYUE FAN, University of California, Berkeley, USA\\
 TIAN LIU, University of California, Berkeley, USA
 
+## Proposal
+[Proposal](https://drive.google.com/file/d/1vKKN-AYTG0D2O-WFNgM9-R2WFAyw4yAu/view?usp=sharing)
+
 ## Milestone Resource
 
 ### Milestone Report

@@ -1,1 +1,1 @@
-# CS284_final_proj_webpage
+# CS284A Final Project: Pathtracer Speed-up Optimization Milestone

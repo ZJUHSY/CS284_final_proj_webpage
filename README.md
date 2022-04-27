@@ -1,5 +1,7 @@
 # CS284A Final Project: Pathtracer Speed-up Optimization Milestone
 
+## Author
+
 SONGYE HAN, University of California, Berkeley, USA\\
 TIANYI HUANG, University of California, Berkeley, USA\\
 MINGYUE FAN, University of California, Berkeley, USA\\

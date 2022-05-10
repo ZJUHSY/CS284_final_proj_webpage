@@ -23,7 +23,11 @@ TIAN LIU, University of California, Berkeley, USA
 
 
 ## Final Deliverable
+
+### Final Paper
 [Report](https://drive.google.com/file/d/1T4s8yxhIZBzw9d04QIqChwFnEiuNdhfq/view?usp=sharing)
+
+### Final Project Video
 [Video](https://drive.google.com/file/d/1qIxpiXW8SOjzmzt8O9s1OF7ba-U0jqRX/view?usp=sharing)
 
 

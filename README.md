@@ -22,6 +22,11 @@ TIAN LIU, University of California, Berkeley, USA
 [Slides](https://docs.google.com/presentation/d/1nv6Ltf3IqgLssjAN94v8myT1iBDJW9hsFTqGJupNxpc/edit?usp=sharing)
 
 
+## Final Deliverable
+[Report](https://drive.google.com/file/d/1T4s8yxhIZBzw9d04QIqChwFnEiuNdhfq/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1qIxpiXW8SOjzmzt8O9s1OF7ba-U0jqRX/view?usp=sharing)
+
+
 
 <!-- ## 1 MILESTONE OVERVIEW
 Until now We have made progress in optimizing both the memory and speed of our ray tracer based on the BVH accelerator. In addition, we also used kd-tree as an alternative accelerator to speed up the process. And we perform anti-aliasing optimization using the jittered sampling.
